@@ -476,5 +476,23 @@
     },
     "done": true
   },
+  "prehistoricfauna:prehistoricfauna/general/time_temple": {
+    "criteria": {
+      "time_temple": "2025-08-31 18:41:08 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-31 18:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-31 18:45:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
