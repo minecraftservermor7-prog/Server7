@@ -491,3 +491,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Aug2025 17:00:49.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Digging Dinosaurs]
 [31Aug2025 17:00:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Paleontology]
 [31Aug2025 17:02:56.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 80
+[31Aug2025 17:18:00.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=-38, z=832} BlockPos{x=234, y=-39, z=831}
