@@ -496,3 +496,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [31Aug2025 17:28:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
 [31Aug2025 17:31:30.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
 [31Aug2025 17:31:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[31Aug2025 17:45:08.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.161.248.57:33077] logged in with entity id 49686 at (639.7592712488113, -28.0, 143.50776682214635)
+[31Aug2025 17:45:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
