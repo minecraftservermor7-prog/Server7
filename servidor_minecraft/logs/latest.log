@@ -456,3 +456,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 13:41:24.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
 [01Sep2025 13:41:24.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
 [01Sep2025 13:41:24.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
+[01Sep2025 13:57:23.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[01Sep2025 13:57:23.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[01Sep2025 13:57:45.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.138.239.160:36705] logged in with entity id 29122 at (366.420727827808, 66.0, 453.3421483066083)
+[01Sep2025 13:57:45.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
