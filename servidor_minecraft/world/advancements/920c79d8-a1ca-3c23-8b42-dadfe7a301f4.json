@@ -94,6 +94,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-01 01:59:45 +0000",
       "baked_potato": "2025-08-12 03:14:11 +0000",
       "apple": "2025-08-12 02:59:48 +0000",
       "mutton": "2025-08-13 03:12:00 +0000",
@@ -482,15 +483,15 @@
     },
     "done": true
   },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-08-31 18:55:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-08-31 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-31 18:55:17 +0000"
     },
     "done": true
   },
