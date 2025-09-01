@@ -479,3 +479,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 21:40:01.088] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 200.35267643630505] -> [436.8601894918829, 89.84118699903829, 1.2290051650000006E7] returning empty list! this might break things
 [01Sep2025 21:40:06.088] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 209.1391326598823] -> [429.642634158954, 79.84237601504329, 1.2290051650000006E7] returning empty list! this might break things
 [01Sep2025 21:40:11.092] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 209.2174819074571] -> [429.90803500823677, 69.93949008452735, 1.2290051650000006E7] returning empty list! this might break things
+[01Sep2025 21:44:19.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.4071690240244834
+[01Sep2025 21:44:19.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37561244065545907
+[01Sep2025 21:44:19.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.2711335692376906
+[01Sep2025 21:44:20.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37145525855783035
+[01Sep2025 21:44:22.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.27089325035206
+[01Sep2025 21:44:23.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37857981612398817
+[01Sep2025 21:44:23.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.33873127355502675
+[01Sep2025 21:44:23.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.30179868996674486
+[01Sep2025 21:44:23.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.2666055826888396
+[01Sep2025 21:44:24.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.3198955404074013
+[01Sep2025 21:44:24.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.7671799641126427
+[01Sep2025 21:44:24.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 1.2237572631493094
+[01Sep2025 21:44:24.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 1.6842914573024927
+[01Sep2025 21:45:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
+[01Sep2025 21:45:37.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
+[01Sep2025 21:49:02.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=62, z=384} BlockPos{x=406, y=61, z=384}

@@ -12123,3 +12123,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 21:42:12.617] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
 [01Sep2025 21:42:12.617] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
 [01Sep2025 21:42:12.618] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 44442c4e-0c71-445d-a163-2e0df3f893fd watched ships: [372]
+[01Sep2025 21:43:06.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 21:43:08.192] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 21:43:08.390] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 21:43:09.850] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 21:43:10.689] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:43:11.389] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 21:43:12.042] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 21:44:19.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.4071690240244834
+[01Sep2025 21:44:19.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37561244065545907
+[01Sep2025 21:44:19.688] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 21:44:19.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.2711335692376906
+[01Sep2025 21:44:20.338] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 21:44:20.888] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 21:44:20.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37145525855783035
+[01Sep2025 21:44:21.287] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 21:44:21.287] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 21:44:21.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:44:22.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.27089325035206
+[01Sep2025 21:44:23.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.37857981612398817
+[01Sep2025 21:44:23.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.33873127355502675
+[01Sep2025 21:44:23.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.30179868996674486
+[01Sep2025 21:44:23.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.2666055826888396
+[01Sep2025 21:44:24.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.3198955404074013
+[01Sep2025 21:44:24.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 0.7671799641126427
+[01Sep2025 21:44:24.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 1.2237572631493094
+[01Sep2025 21:44:24.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of lol) moved wrongly! 1.6842914573024927
+[01Sep2025 21:44:25.438] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 21:44:25.886] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:44:26.936] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 21:44:27.487] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 21:44:27.965] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 21:44:28.058] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 21:44:29.386] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 21:44:30.892] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
+[01Sep2025 21:44:30.895] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 44442c4e-0c71-445d-a163-2e0df3f893fd unwatched ships [372]
+[01Sep2025 21:44:32.686] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 21:45:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
+[01Sep2025 21:45:37.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
+[01Sep2025 21:46:13.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 21:46:13.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[01Sep2025 21:47:26.586] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 21:47:26.590] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 44442c4e-0c71-445d-a163-2e0df3f893fd watched ships: [372]
+[01Sep2025 21:47:27.052] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
+[01Sep2025 21:47:27.638] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 21:47:27.989] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 21:47:28.405] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 21:47:29.340] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 21:47:29.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 21:47:30.337] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:47:30.390] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 21:47:30.936] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 21:47:32.789] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 21:47:33.141] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 21:49:02.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=62, z=384} BlockPos{x=406, y=61, z=384}
+[01Sep2025 21:51:13.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 21:51:13.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[01Sep2025 21:53:51.135] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:53:58.637] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 21:56:13.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 21:56:13.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[01Sep2025 22:01:13.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 22:01:13.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
