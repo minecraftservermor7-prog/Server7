@@ -8671,3 +8671,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 14:00:47.995] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
 [01Sep2025 14:00:48.892] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
 [01Sep2025 14:00:48.893] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6c06bd9e-f3ff-43ad-9720-32b07e1f9d3e unwatched ships [372]
+[01Sep2025 14:04:11.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 14:04:11.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[01Sep2025 14:07:08.948] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
+[01Sep2025 14:07:08.949] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6c06bd9e-f3ff-43ad-9720-32b07e1f9d3e watched ships: [372]
+[01Sep2025 14:07:09.397] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 14:07:10.852] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 14:07:11.547] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 14:07:12.549] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 14:07:12.948] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 14:07:14.550] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 14:07:15.248] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 14:09:11.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[01Sep2025 14:09:11.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[01Sep2025 14:11:12.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=66, z=389} BlockPos{x=326, y=65, z=388}
+[01Sep2025 14:11:12.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=66, z=389} BlockPos{x=326, y=65, z=388}
+[01Sep2025 14:11:14.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[01Sep2025 14:11:15.291] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[01Sep2025 14:11:16.345] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[01Sep2025 14:11:17.338] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[01Sep2025 14:11:19.790] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[01Sep2025 14:11:20.538] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[01Sep2025 14:11:33.737] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
+[01Sep2025 14:11:34.688] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[01Sep2025 14:11:34.689] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6c06bd9e-f3ff-43ad-9720-32b07e1f9d3e unwatched ships [372]
+[01Sep2025 14:12:17.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:17.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:18.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
+[01Sep2025 14:12:18.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=66, z=447} BlockPos{x=383, y=65, z=444}
