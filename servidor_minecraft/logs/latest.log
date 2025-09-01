@@ -1,176 +1,458 @@
-[01Sep2025 00:00:45.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:48607] logged in with entity id 11325 at (137.72579936960162, -32.0, 869.7639175532601)
-[01Sep2025 00:00:45.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
-[01Sep2025 00:00:46.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
-[01Sep2025 00:03:26.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> [name:"castillo", x:380, y:77, z:411, dim:minecraft:overworld]
-[01Sep2025 00:04:50.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=75, z=424} BlockPos{x=377, y=74, z=425}
-[01Sep2025 00:11:40.988] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 942.0705595128238] -> [-96.00526535883546, 73.80195746895724, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:11:46.018] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 944.782142855227] -> [-71.79659092240036, 87.8656879575979, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:11:51.087] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 911.0635959133506] -> [-29.936638791114092, 95.26925726626156, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:11:56.121] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 863.1840771883726] -> [28.549595490098, 95.27063804885138, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:01.139] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 815.3581191301346] -> [86.96866375952959, 95.27063823682874, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:06.171] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 767.689941201359] -> [145.19500295631588, 95.27063826149376, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:11.224] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 720.1801260076463] -> [203.22790321335196, 95.27063828538843, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:16.277] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 672.1952126398683] -> [261.8411324992776, 95.27063830952262, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:21.365] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 624.2102992646396] -> [320.4543617796153, 95.27063833363492, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:26.370] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 576.5421179756522] -> [378.6807050574571, 95.27063835761265, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:31.391] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 528.715570628643] -> [437.1004913356155, 95.27063838163048, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:36.417] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 481.20575535297394] -> [495.13339161127806, 95.27063840551018, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:41.419] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 434.01267214491963] -> [552.7794058974832, 95.27063842921869, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:46.467] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 417.9372608236495] -> [558.7040394534338, 95.17094964364432, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:51.477] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 365.6836496516352] -> [516.150033011705, 94.18305237739139, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:12:56.515] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 308.50596192362764] -> [467.7327507726571, 84.22635605838452, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:01.561] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 295.4644778948277] -> [408.74070896208286, 74.11533621270452, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:06.610] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 64.70559700830536, 294.97946688329444] -> [396.761140541907, 66.50559696062165, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:11.611] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 64.50928260014219, 323.07716347642594] -> [390.42341850292706, 66.30928255245847, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:16.611] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 381.2072401021376] -> [383.7759401285094, 76.2121018972256, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:21.662] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 410.3101418875158] -> [378.09245436638594, 80.01681868189505, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:26.710] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 409.0995186324792] -> [378.0155797459068, 76.84384576630003, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:31.711] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 354.6124550928225] -> [401.2624324601839, 77.83769594864778, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:36.715] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 280.01598950206886] -> [406.2334730897078, 77.82061907531943, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:41.716] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 208.06582215055823] -> [416.772347766906, 77.80429323869113, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:46.763] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 199.88123931735754] -> [418.12912331614643, 72.11591622177225, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:13:51.764] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 191.84264762885869] -> [415.3357160538435, 70.32130543700697, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:19:33.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=72, z=428} BlockPos{x=375, y=72, z=427}
-[01Sep2025 00:19:48.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=387, y=72, z=433}
-[01Sep2025 00:19:50.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=386, y=72, z=432}
-[01Sep2025 00:19:50.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=386, y=72, z=432}
-[01Sep2025 00:19:50.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=386, y=72, z=432}
-[01Sep2025 00:19:50.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=386, y=72, z=432}
-[01Sep2025 00:19:50.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=72, z=432} BlockPos{x=386, y=72, z=432}
-[01Sep2025 00:21:46.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=348, y=73, z=409} BlockPos{x=348, y=72, z=411}
-[01Sep2025 00:23:12.320] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 192.1570779364556] -> [414.6715634614229, 70.33722407608448, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:23:17.329] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 189.96847318746316] -> [438.88542961083965, 79.14349664259267, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:23:22.373] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 222.85538102537788] -> [506.7581028173837, 78.9393487987882, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:23:27.376] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 251.80710318487843] -> [575.4023042031284, 85.6921447122583, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:23:32.434] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 254.53096224657625] -> [637.4406672560691, 101.36663606520874, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:24:40.026] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 254.69686361588538] -> [646.8606136851013, 98.80131948928349, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:24:45.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 246.1013418556606] -> [628.3322370810226, 108.46022160559299, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:24:50.125] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 235.77405305114365] -> [555.1177549208886, 102.79152302068113, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:24:55.126] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 226.42338772886444] -> [485.47342956761383, 92.7827607034715, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:25:00.170] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 220.12027025874704] -> [464.16357190907, 86.17391342231444, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:25:05.172] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 218.644571516121] -> [459.3299935026173, 82.89247651742303, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:25:10.216] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 216.92217693850398] -> [441.5440583843738, 72.7687169201952, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 00:36:29.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> voy a comer en 10 vuelvo
-[01Sep2025 00:40:09.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=71, z=416} BlockPos{x=341, y=70, z=415}
-[01Sep2025 00:40:09.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=70, z=415} BlockPos{x=342, y=70, z=415}
-[01Sep2025 00:48:58.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=378, y=69, z=412} BlockPos{x=379, y=69, z=413}
-[01Sep2025 00:48:59.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=380, y=69, z=412} BlockPos{x=379, y=69, z=413}
-[01Sep2025 00:49:06.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=378, y=69, z=404} BlockPos{x=378, y=68, z=403}
-[01Sep2025 00:49:06.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=378, y=69, z=404} BlockPos{x=378, y=68, z=403}
-[01Sep2025 00:49:42.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=70, z=418} BlockPos{x=336, y=69, z=419}
-[01Sep2025 00:55:20.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=70, z=429} BlockPos{x=361, y=70, z=430}
-[01Sep2025 00:55:42.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=69, z=408} BlockPos{x=395, y=68, z=405}
-[01Sep2025 00:55:42.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=69, z=408} BlockPos{x=395, y=68, z=405}
-[01Sep2025 01:04:45.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=417} BlockPos{x=369, y=68, z=418}
-[01Sep2025 01:04:45.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=417} BlockPos{x=369, y=68, z=418}
-[01Sep2025 01:04:46.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=416} BlockPos{x=369, y=67, z=418}
-[01Sep2025 01:04:46.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=68, z=417} BlockPos{x=370, y=67, z=417}
-[01Sep2025 01:04:49.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=68, z=417} BlockPos{x=365, y=68, z=415}
-[01Sep2025 01:04:49.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=68, z=417} BlockPos{x=365, y=68, z=415}
-[01Sep2025 01:04:49.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=68, z=417} BlockPos{x=365, y=68, z=415}
-[01Sep2025 01:05:25.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=348, y=70, z=407} BlockPos{x=348, y=69, z=408}
-[01Sep2025 01:05:25.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=348, y=70, z=407} BlockPos{x=348, y=69, z=408}
-[01Sep2025 01:06:20.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=70, z=455} BlockPos{x=347, y=69, z=453}
-[01Sep2025 01:06:20.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=70, z=455} BlockPos{x=347, y=69, z=453}
-[01Sep2025 01:06:20.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=70, z=455} BlockPos{x=347, y=69, z=453}
-[01Sep2025 01:06:20.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=70, z=455} BlockPos{x=347, y=69, z=453}
-[01Sep2025 01:09:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Enchanter]
-[01Sep2025 01:11:22.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=391, y=65, z=460} BlockPos{x=392, y=64, z=461}
-[01Sep2025 01:11:22.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=391, y=65, z=460} BlockPos{x=392, y=64, z=461}
-[01Sep2025 01:12:19.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=64, z=464} BlockPos{x=395, y=63, z=465}
-[01Sep2025 01:12:19.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=64, z=464} BlockPos{x=395, y=63, z=465}
-[01Sep2025 01:12:19.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=64, z=464} BlockPos{x=395, y=63, z=465}
-[01Sep2025 01:12:19.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=64, z=464} BlockPos{x=395, y=63, z=465}
-[01Sep2025 01:12:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=64, z=464} BlockPos{x=395, y=63, z=465}
-[01Sep2025 01:25:20.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=352, y=69, z=402} BlockPos{x=354, y=68, z=403}
-[01Sep2025 01:25:20.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=352, y=69, z=402} BlockPos{x=354, y=68, z=403}
-[01Sep2025 01:27:21.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=69, z=410} BlockPos{x=400, y=68, z=413}
-[01Sep2025 01:27:21.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=69, z=410} BlockPos{x=400, y=68, z=413}
-[01Sep2025 01:27:21.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=69, z=410} BlockPos{x=400, y=68, z=413}
-[01Sep2025 01:27:22.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=69, z=410} BlockPos{x=400, y=68, z=413}
-[01Sep2025 01:28:21.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Local Brewery]
-[01Sep2025 01:29:25.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
-[01Sep2025 01:29:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
-[01Sep2025 01:44:20.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=65, z=211} BlockPos{x=378, y=63, z=210}
-[01Sep2025 01:51:34.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.4.236.4:46523] logged in with entity id 79904 at (424.8040306517118, 72.0, 354.3541515220085)
-[01Sep2025 01:51:34.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
-[01Sep2025 01:52:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> Luiss gay
-[01Sep2025 01:52:57.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> llama
-[01Sep2025 01:53:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> nooo
-[01Sep2025 01:55:22.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=420, y=71, z=361} BlockPos{x=421, y=71, z=362}
-[01Sep2025 02:00:30.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=63, z=251} BlockPos{x=395, y=62, z=251}
-[01Sep2025 02:00:31.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=63, z=253} BlockPos{x=396, y=62, z=253}
-[01Sep2025 02:00:31.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=63, z=254} BlockPos{x=396, y=62, z=253}
-[01Sep2025 02:00:44.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=63, z=250} BlockPos{x=399, y=62, z=250}
-[01Sep2025 02:00:44.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=63, z=250} BlockPos{x=399, y=62, z=250}
-[01Sep2025 02:00:44.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=63, z=252} BlockPos{x=399, y=62, z=252}
-[01Sep2025 02:00:44.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=63, z=252} BlockPos{x=399, y=62, z=252}
-[01Sep2025 02:00:45.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=63, z=254} BlockPos{x=403, y=62, z=255}
-[01Sep2025 02:00:45.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=404, y=63, z=254} BlockPos{x=403, y=62, z=255}
-[01Sep2025 02:00:46.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=63, z=253} BlockPos{x=404, y=62, z=254}
-[01Sep2025 02:00:46.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=404, y=63, z=250} BlockPos{x=404, y=62, z=251}
-[01Sep2025 02:00:47.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=404, y=63, z=249} BlockPos{x=403, y=62, z=249}
-[01Sep2025 02:00:48.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=402, y=63, z=247} BlockPos{x=402, y=62, z=247}
-[01Sep2025 02:14:55.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
-[01Sep2025 02:19:56.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=66, z=395} BlockPos{x=365, y=65, z=394}
-[01Sep2025 02:21:09.669] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 65.00001487738065, 217.19457107409835] -> [441.6019973773509, 66.80001482969693, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:21:23.925] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 221.8010459318757] -> [436.8842087406665, 72.00504589956122, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:21:28.975] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 224.4494467769801] -> [425.9103432855731, 71.97330016150941, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:21:33.985] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 65.43089856782477, 213.9426443297416] -> [416.60638201981783, 67.23089852014105, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:25.674] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 65.00038438027681, 212.6905048750341] -> [415.58484180271626, 66.8003843325931, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:30.730] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 249.3484973807135] -> [395.46727443569813, 72.45826749752015, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:35.772] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 324.46809857980725] -> [387.7142672357242, 72.45447897951489, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:40.776] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 395.9126578468539] -> [369.56330994204586, 70.89589786743556, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:45.820] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 426.13462609069444] -> [346.0554039831364, 71.96651092380016, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:50.874] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 407.5029446999581] -> [353.43210941486376, 80.51406153323481, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:23:55.918] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 395.0676361526039] -> [378.17846883886017, 98.90918668206766, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:00.920] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 405.99083668261517] -> [384.97275629455334, 100.52028504062162, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:05.923] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 388.96253995224833] -> [385.6918694600463, 90.53093111835011, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:10.980] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 388.8536618202925] -> [385.6983175817877, 89.01523794436031, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:16.022] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 361.2292971993977] -> [363.0775346726517, 86.92496217326412, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:21.023] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 294.70998444617754] -> [390.41999196714926, 79.31928862308345, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:26.024] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 227.29924978958402] -> [411.66842598941747, 70.92856712545287, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:31.029] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 256.73844712645547] -> [418.9855354046383, 72.42298202613225, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:36.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 326.2767478487182] -> [425.37048342490056, 71.82474034446385, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:41.123] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 390.26785323306257] -> [389.5159012173695, 71.65202848423277, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:46.174] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 427.7296887680399] -> [391.360399022888, 70.9300299821443, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:51.224] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 428.40638216347736] -> [399.2544987728323, 70.81215855406582, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:24:56.226] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 427.68914499878883] -> [361.96704598143697, 72.04219133027308, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:01.226] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 427.65497725084424] -> [362.5019286721945, 72.07230756903685, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:06.273] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 427.65564374253154] -> [362.5044845491648, 72.07231830039632, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:11.285] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 427.66377388225214] -> [362.5141392976198, 70.80000429377517, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:16.319] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 375.78743544969683] -> [382.5506632300204, 71.17532193317027, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:21.334] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 301.6428760163456] -> [390.991347970152, 74.22335678040972, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:26.363] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 241.401895993033] -> [430.08433835304305, 73.84816706589544, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:31.412] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 206.2823780886829] -> [391.055083155632, 73.73239934939228, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:36.461] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 196.11873145798805] -> [421.5123056792688, 74.37396018988338, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:25:41.510] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 217.72967486828566] -> [420.1212459690869, 74.0935558162063, 1.2290051650000006E7] returning empty list! this might break things
-[01Sep2025 02:32:52.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=66, z=364} BlockPos{x=428, y=66, z=365}
-[01Sep2025 02:32:52.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
-[01Sep2025 02:32:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
-[01Sep2025 02:36:22.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
-[01Sep2025 02:36:22.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
-[01Sep2025 02:36:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[01Sep2025 02:36:29.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Sep2025 02:36:29.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Sep2025 02:36:29.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Sep2025 02:36:29.115] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
-[01Sep2025 02:36:29.117] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
-[01Sep2025 02:36:29.164] [DefaultDispatcher-worker-1/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
-[01Sep2025 02:36:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
-[01Sep2025 02:36:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:treasure_room
-[01Sep2025 02:36:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
-[01Sep2025 02:36:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:anu_lair
-[01Sep2025 02:36:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
-[01Sep2025 02:36:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
-[01Sep2025 02:36:29.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
-[01Sep2025 02:36:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (treasure_room): All chunks are saved
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (anu_lair): All chunks are saved
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
-[01Sep2025 02:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Sep2025 02:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Sep2025 02:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
-[01Sep2025 02:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Sep2025 13:13:09.918] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01Sep2025 13:13:09.921] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[01Sep2025 13:13:11.159] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Sep2025 13:13:11.215] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server7/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Sep2025 13:13:11.550] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server7/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Sep2025 13:13:11.552] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server7/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Sep2025 13:13:11.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server7/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Sep2025 13:13:11.554] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server7/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Sep2025 13:13:12.171] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 33 dependencies adding them to mods collection
+[01Sep2025 13:13:15.035] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Sep2025 13:13:15.186] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Sep2025 13:13:15.402] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 83 options available, 0 override(s) found
+[01Sep2025 13:13:15.412] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Sep2025 13:13:15.502] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Sep2025 13:13:15.505] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Sep2025 13:13:16.499] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[01Sep2025 13:13:16.500] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[01Sep2025 13:13:16.500] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[01Sep2025 13:13:16.803] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[01Sep2025 13:13:16.803] [main/WARN] [mixin/]: @Mixin target noobanidus.mods.lootr.config.ConfigManager was not found quark_integrations.mixins.json:lootr.ConfigManagerMixin
+[01Sep2025 13:13:16.941] [main/WARN] [mixin/]: Error loading class: tschipp/carryon/common/carry/PickupHandler (java.lang.ClassNotFoundException: tschipp.carryon.common.carry.PickupHandler)
+[01Sep2025 13:13:16.942] [main/WARN] [mixin/]: @Mixin target tschipp.carryon.common.carry.PickupHandler was not found fossil_forge.mixins.json:PickupHandlerMixin
+[01Sep2025 13:13:17.157] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/client/render/CustomLecternRenderer (java.lang.ClassNotFoundException: dan200.computercraft.client.render.CustomLecternRenderer)
+[01Sep2025 13:13:17.159] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[01Sep2025 13:13:17.161] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[01Sep2025 13:13:17.163] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[01Sep2025 13:13:17.165] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[01Sep2025 13:13:17.240] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/munitions/AbstractCannonProjectile (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.munitions.AbstractCannonProjectile)
+[01Sep2025 13:13:17.243] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/utils/CBCUtils (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.utils.CBCUtils)
+[01Sep2025 13:13:17.245] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/fixed_cannon_mount/FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.fixed_cannon_mount.FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour)
+[01Sep2025 13:13:17.245] [main/WARN] [mixin/]: @Mixin target rbasamoyai.createbigcannons.cannon_control.fixed_cannon_mount.FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create_big_cannons.MixinFCMSVB
+[01Sep2025 13:13:17.248] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[01Sep2025 13:13:17.251] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/network/ServerboundSetFixedCannonMountValuePacket (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.network.ServerboundSetFixedCannonMountValuePacket)
+[01Sep2025 13:13:17.251] [main/WARN] [mixin/]: @Mixin target rbasamoyai.createbigcannons.network.ServerboundSetFixedCannonMountValuePacket was not found valkyrienskies-common.mixins.json:mod_compat.create_big_cannons.MixinSSFCMVP
+[01Sep2025 13:13:17.253] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[01Sep2025 13:13:17.255] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[01Sep2025 13:13:17.257] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[01Sep2025 13:13:17.290] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[01Sep2025 13:13:17.292] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[01Sep2025 13:13:17.295] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[01Sep2025 13:13:17.297] [main/WARN] [mixin/]: Error loading class: dev/su5ed/mffs/util/FrequencyGrid (java.lang.ClassNotFoundException: dev.su5ed.mffs.util.FrequencyGrid)
+[01Sep2025 13:13:17.299] [main/WARN] [mixin/]: Error loading class: dev/su5ed/mffs/network/ClientPacketHandler (java.lang.ClassNotFoundException: dev.su5ed.mffs.network.ClientPacketHandler)
+[01Sep2025 13:13:17.301] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[01Sep2025 13:13:17.508] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[01Sep2025 13:13:17.509] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[01Sep2025 13:13:17.653] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01Sep2025 13:13:25.875] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/]: Kiwi Customization is enabled
+[01Sep2025 13:13:26.169] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[01Sep2025 13:13:26.595] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Sep2025 13:13:26.595] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Sep2025 13:13:27.191] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[01Sep2025 13:13:27.657] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
+[01Sep2025 13:13:27.722] [modloading-worker-0/INFO] [quark/]: Initializing TerraBlender underground biome compat
+[01Sep2025 13:13:27.765] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[01Sep2025 13:13:27.927] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zmg000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[01Sep2025 13:13:28.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Sep2025 13:13:28.296] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[01Sep2025 13:13:28.296] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[01Sep2025 13:13:28.314] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[01Sep2025 13:13:28.314] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[01Sep2025 13:13:28.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[01Sep2025 13:13:28.341] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[01Sep2025 13:13:28.371] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[01Sep2025 13:13:28.379] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[01Sep2025 13:13:28.380] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[01Sep2025 13:13:28.381] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[01Sep2025 13:13:28.384] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[01Sep2025 13:13:28.391] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[01Sep2025 13:13:28.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[01Sep2025 13:13:28.406] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[01Sep2025 13:13:28.409] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[01Sep2025 13:13:28.410] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[01Sep2025 13:13:28.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[01Sep2025 13:13:28.442] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[01Sep2025 13:13:28.448] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[01Sep2025 13:13:28.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[01Sep2025 13:13:28.454] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[01Sep2025 13:13:28.456] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[01Sep2025 13:13:28.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[01Sep2025 13:13:28.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[01Sep2025 13:13:28.460] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[01Sep2025 13:13:28.468] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[01Sep2025 13:13:28.474] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[01Sep2025 13:13:28.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[01Sep2025 13:13:28.485] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[01Sep2025 13:13:28.487] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[01Sep2025 13:13:28.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[01Sep2025 13:13:28.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[01Sep2025 13:13:28.728] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[01Sep2025 13:13:28.731] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[01Sep2025 13:13:28.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[01Sep2025 13:13:28.738] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[01Sep2025 13:13:28.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[01Sep2025 13:13:28.750] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[01Sep2025 13:13:28.754] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[01Sep2025 13:13:28.756] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[01Sep2025 13:13:28.758] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[01Sep2025 13:13:28.764] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[01Sep2025 13:13:28.765] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[01Sep2025 13:13:28.767] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[01Sep2025 13:13:28.768] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[01Sep2025 13:13:28.770] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[01Sep2025 13:13:28.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[01Sep2025 13:13:28.776] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[01Sep2025 13:13:28.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[01Sep2025 13:13:28.790] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[01Sep2025 13:13:28.792] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[01Sep2025 13:13:28.799] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[01Sep2025 13:13:28.804] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[01Sep2025 13:13:28.817] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[01Sep2025 13:13:28.835] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[01Sep2025 13:13:28.841] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[01Sep2025 13:13:28.842] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[01Sep2025 13:13:28.851] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[01Sep2025 13:13:28.874] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[01Sep2025 13:13:28.881] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[01Sep2025 13:13:28.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[01Sep2025 13:13:28.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[01Sep2025 13:13:28.922] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[01Sep2025 13:13:28.922] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[01Sep2025 13:13:28.927] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[01Sep2025 13:13:28.937] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[01Sep2025 13:13:28.942] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[01Sep2025 13:13:28.949] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[01Sep2025 13:13:28.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[01Sep2025 13:13:28.967] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[01Sep2025 13:13:28.967] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[01Sep2025 13:13:28.968] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[01Sep2025 13:13:28.981] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[01Sep2025 13:13:28.986] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[01Sep2025 13:13:28.987] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[01Sep2025 13:13:28.992] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[01Sep2025 13:13:29.035] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[01Sep2025 13:13:29.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[01Sep2025 13:13:29.046] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[01Sep2025 13:13:29.047] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[01Sep2025 13:13:29.047] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[01Sep2025 13:13:29.048] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[01Sep2025 13:13:29.063] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[01Sep2025 13:13:29.071] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[01Sep2025 13:13:29.090] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[01Sep2025 13:13:29.121] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[01Sep2025 13:13:29.125] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[01Sep2025 13:13:29.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[01Sep2025 13:13:29.128] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[01Sep2025 13:13:29.142] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[01Sep2025 13:13:29.147] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[01Sep2025 13:13:29.150] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[01Sep2025 13:13:29.158] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[01Sep2025 13:13:29.162] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[01Sep2025 13:13:29.163] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[01Sep2025 13:13:29.163] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[01Sep2025 13:13:29.164] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[01Sep2025 13:13:29.164] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[01Sep2025 13:13:29.165] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[01Sep2025 13:13:29.174] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[01Sep2025 13:13:29.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[01Sep2025 13:13:29.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[01Sep2025 13:13:29.176] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[01Sep2025 13:13:29.179] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[01Sep2025 13:13:29.180] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[01Sep2025 13:13:29.192] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[01Sep2025 13:13:29.209] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[01Sep2025 13:13:29.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[01Sep2025 13:13:29.225] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[01Sep2025 13:13:29.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[01Sep2025 13:13:29.236] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[01Sep2025 13:13:29.247] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[01Sep2025 13:13:29.253] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[01Sep2025 13:13:29.256] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[01Sep2025 13:13:29.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[01Sep2025 13:13:29.260] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[01Sep2025 13:13:29.263] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[01Sep2025 13:13:29.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[01Sep2025 13:13:29.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[01Sep2025 13:13:29.272] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[01Sep2025 13:13:29.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[01Sep2025 13:13:29.281] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[01Sep2025 13:13:29.283] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[01Sep2025 13:13:29.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[01Sep2025 13:13:29.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[01Sep2025 13:13:29.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[01Sep2025 13:13:29.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[01Sep2025 13:13:29.322] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[01Sep2025 13:13:29.327] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[01Sep2025 13:13:29.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[01Sep2025 13:13:29.340] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[01Sep2025 13:13:29.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[01Sep2025 13:13:29.348] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[01Sep2025 13:13:29.349] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[01Sep2025 13:13:29.349] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[01Sep2025 13:13:29.350] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[01Sep2025 13:13:29.351] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[01Sep2025 13:13:29.353] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[01Sep2025 13:13:29.355] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[01Sep2025 13:13:29.355] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[01Sep2025 13:13:29.356] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[01Sep2025 13:13:29.358] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[01Sep2025 13:13:29.363] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[01Sep2025 13:13:29.369] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[01Sep2025 13:13:29.369] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[01Sep2025 13:13:29.380] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[01Sep2025 13:13:29.381] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[01Sep2025 13:13:29.390] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[01Sep2025 13:13:29.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[01Sep2025 13:13:29.394] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[01Sep2025 13:13:29.394] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[01Sep2025 13:13:29.395] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[01Sep2025 13:13:29.428] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[01Sep2025 13:13:29.448] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[01Sep2025 13:13:29.450] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[01Sep2025 13:13:29.452] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[01Sep2025 13:13:29.453] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[01Sep2025 13:13:29.486] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[01Sep2025 13:13:29.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[01Sep2025 13:13:29.500] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[01Sep2025 13:13:29.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[01Sep2025 13:13:29.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[01Sep2025 13:13:29.511] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[01Sep2025 13:13:29.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[01Sep2025 13:13:29.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[01Sep2025 13:13:29.514] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[01Sep2025 13:13:29.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:cap_channel/537e4f78f24b30e4bee5892e8d9314fa
+[01Sep2025 13:13:29.608] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/f7d73d83d6fa3fb99fb754f57f7238af
+[01Sep2025 13:13:29.609] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/5ecf814711a7357f8ebd58d771f05139
+[01Sep2025 13:13:29.613] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/2ae61e410df635b2b2c2d4eaa7b7afcb
+[01Sep2025 13:13:29.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/600dc9ad56393757ae8315ba075af416
+[01Sep2025 13:13:29.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/ec18fa987d5331379c9156102188220c
+[01Sep2025 13:13:29.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/b0228010ee3d3689beb49186e8009925
+[01Sep2025 13:13:29.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/ed688e568fc63151a34c0f912fce9d27
+[01Sep2025 13:13:29.624] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/8aaf614d5e2d39dd9e136e8c430145a9
+[01Sep2025 13:13:29.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/08e9f40b177134efbc5eb99e2ad6bcb5
+[01Sep2025 13:13:29.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/531d15ea7fd13018964a31b3ccac540a
+[01Sep2025 13:13:29.807] [modloading-worker-0/INFO] [quark-zeta/]: Doing super early config setup for quark
+[01Sep2025 13:13:31.750] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [xkdeco:entity_types] initialized
+[01Sep2025 13:13:31.752] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block_entity_type: 5
+[01Sep2025 13:13:31.754] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[01Sep2025 13:13:31.754] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_template: 2
+[01Sep2025 13:13:31.754] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[01Sep2025 13:13:31.754] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_component: 10
+[01Sep2025 13:13:31.755] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[01Sep2025 13:13:31.755] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[01Sep2025 13:13:31.757] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[01Sep2025 13:13:31.757] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:item_template: 3
+[01Sep2025 13:13:35.254] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.264] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.265] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.272] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.280] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.304] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[01Sep2025 13:13:35.321] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[01Sep2025 13:13:35.353] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:35.366] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:35.388] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[01Sep2025 13:13:35.403] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[01Sep2025 13:13:35.770] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[01Sep2025 13:13:35.771] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:35.789] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[01Sep2025 13:13:35.803] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roofed_lamp is not registered
+[01Sep2025 13:13:35.827] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[01Sep2025 13:13:35.829] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[01Sep2025 13:13:35.831] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[01Sep2025 13:13:35.840] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:35.853] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[01Sep2025 13:13:35.856] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[01Sep2025 13:13:35.857] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[01Sep2025 13:13:35.860] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[01Sep2025 13:13:35.868] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[01Sep2025 13:13:35.891] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[01Sep2025 13:13:35.932] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:35.952] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[01Sep2025 13:13:35.962] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[01Sep2025 13:13:38.582] [Thread-1/INFO] [zeta/]: About to refresh zeta's config, looking for better thread than 'Thread-1'...
+[01Sep2025 13:13:38.583] [Thread-1/WARN] [zeta/]: Using thread 'Thread-1' instead of the server thread
+[01Sep2025 13:13:38.583] [Thread-1/INFO] [zeta/]: zeta's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[01Sep2025 13:13:38.584] [Thread-1/INFO] [zeta/]: About to refresh zeta's config, looking for better thread than 'Thread-1'...
+[01Sep2025 13:13:38.584] [Thread-1/WARN] [zeta/]: Using thread 'Thread-1' instead of the server thread
+[01Sep2025 13:13:38.584] [Thread-1/INFO] [zeta/]: zeta's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[01Sep2025 13:13:38.621] [Thread-1/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-1'...
+[01Sep2025 13:13:38.622] [Thread-1/WARN] [quark-zeta/]: Using thread 'Thread-1' instead of the server thread
+[01Sep2025 13:13:38.622] [Thread-1/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[01Sep2025 13:13:38.627] [Thread-1/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-1'...
+[01Sep2025 13:13:38.627] [Thread-1/WARN] [quark-zeta/]: Using thread 'Thread-1' instead of the server thread
+[01Sep2025 13:13:38.628] [Thread-1/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[01Sep2025 13:13:39.103] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Sep2025 13:13:39.104] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Sep2025 13:13:39.104] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 1 for type OVERWORLD
+[01Sep2025 13:13:39.104] [main/INFO] [quark-zeta/]: Common setup: Performing initial refresh of quark's config on thread 'main'
+[01Sep2025 13:13:39.126] [main/INFO] [quark-zeta/]: Waiting for server start before accepting filewatcher changes to quark's config
+[01Sep2025 13:13:39.126] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
+[01Sep2025 13:13:39.127] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[01Sep2025 13:13:39.128] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
+[01Sep2025 13:13:39.139] [main/INFO] [terrablender/]: Registered region fossil:overworld to index 2 for type OVERWORLD
+[01Sep2025 13:13:39.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[01Sep2025 13:13:39.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.2+mc.1.20.1-forge Target: null
+[01Sep2025 13:13:39.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Sep2025 13:13:39.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01Sep2025 13:13:39.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[01Sep2025 13:13:40.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.33 Target: 1.20.1-1.1.35
+[01Sep2025 13:13:40.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[01Sep2025 13:13:40.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[01Sep2025 13:13:45.953] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Sep2025 13:13:50.608] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server7/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[01Sep2025 13:13:50.608] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server7/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[01Sep2025 13:13:53.318] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jurassic_additions:tranquilizer_gun_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'jurassic_additions:tranquilizer_gun'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[01Sep2025 13:13:53.338] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.348] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[01Sep2025 13:13:53.390] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.390] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.391] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.393] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.404] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.405] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.405] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.406] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[01Sep2025 13:13:53.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdieselgenerators:smithing/chemical_sprayer_lighter
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[01Sep2025 13:13:53.412] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[01Sep2025 13:13:53.437] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[01Sep2025 13:13:53.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[01Sep2025 13:13:53.584] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3226 recipe advancements
+[01Sep2025 13:13:53.592] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 339 advancements
+[01Sep2025 13:13:53.600] [main/INFO] [superlord.prehistoricrevival.common.recipes.DNAAnalyzerRecipeJsonManager/]: Data loader for loot_tables/dna_analyzer loaded 27 jsons
+[01Sep2025 13:13:53.616] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 3 patches
+[01Sep2025 13:13:53.616] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[01Sep2025 13:13:53.616] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[01Sep2025 13:13:53.617] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[01Sep2025 13:13:53.617] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[01Sep2025 13:13:53.617] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[01Sep2025 13:13:53.618] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 3 patches
+[01Sep2025 13:13:53.618] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[01Sep2025 13:13:53.618] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[01Sep2025 13:13:53.623] [main/INFO] [Fossils Archeology/]: Loaded 722 server animations for 65 entities
+[01Sep2025 13:13:53.638] [main/INFO] [Fossils Archeology/]: Loaded 1040 animation category entries for 65 entities
+[01Sep2025 13:13:53.644] [main/INFO] [Fossils Archeology/]: Loaded data for 58 entities
+[01Sep2025 13:13:53.652] [main/INFO] [Fossils Archeology/]: Loaded 10 variants
+[01Sep2025 13:13:53.654] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[01Sep2025 13:13:58.391] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[01Sep2025 13:13:58.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Sep2025 13:13:58.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Sep2025 13:13:58.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Sep2025 13:13:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Sep2025 13:13:58.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Sep2025 13:13:58.698] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Sep2025 13:13:58.774] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Sep2025 13:13:58.774] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Sep2025 13:13:58.774] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Sep2025 13:13:58.774] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Sep2025 13:13:58.853] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
+[01Sep2025 13:13:58.853] [Server thread/INFO] [quark-zeta/]: Server starting, accepting filewatcher changes for quark's config
+[01Sep2025 13:13:58.863] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Sep2025 13:13:59.127] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Sep2025 13:13:59.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Sep2025 13:14:00.081] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[01Sep2025 13:14:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Sep2025 13:14:05.207] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:06.208] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:07.210] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:08.212] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:08.453] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.470] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.486] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.496] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.502] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.511] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.522] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:08.540] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:09.038] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:09.213] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:09.925] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:10.037] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 13:14:10.216] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:10.537] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[01Sep2025 13:14:11.037] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[01Sep2025 13:14:11.173] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6137 ms
+[01Sep2025 13:14:11.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.385s)! For help, type "help"
+[01Sep2025 13:14:11.217] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[01Sep2025 13:14:11.326] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Sep2025 13:14:11.330] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[01Sep2025 13:14:29.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.138.239.160:59825] logged in with entity id 76 at (365.6641592998162, 67.0, 361.5899911021836)
+[01Sep2025 13:14:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[01Sep2025 13:16:16.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=349, y=68, z=401} BlockPos{x=353, y=67, z=400}
+[01Sep2025 13:16:17.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=349, y=68, z=401} BlockPos{x=353, y=67, z=400}
+[01Sep2025 13:24:45.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[01Sep2025 13:24:45.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[01Sep2025 13:24:45.944] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Sep2025 13:25:05.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.138.239.160:45181] logged in with entity id 7018 at (446.4981884815148, 67.0, 370.7463907205807)
+[01Sep2025 13:25:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[01Sep2025 13:31:54.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=65, z=402} BlockPos{x=376, y=63, z=402}
+[01Sep2025 13:31:55.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=65, z=402} BlockPos{x=375, y=64, z=401}
+[01Sep2025 13:31:56.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=65, z=402} BlockPos{x=376, y=64, z=401}
+[01Sep2025 13:31:59.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=66, z=404} BlockPos{x=376, y=65, z=405}
+[01Sep2025 13:32:04.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=402} BlockPos{x=370, y=65, z=401}
+[01Sep2025 13:32:04.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=402} BlockPos{x=370, y=65, z=401}
+[01Sep2025 13:32:04.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=402} BlockPos{x=370, y=65, z=401}
+[01Sep2025 13:32:04.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=402} BlockPos{x=370, y=65, z=401}
+[01Sep2025 13:41:24.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
+[01Sep2025 13:41:24.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
+[01Sep2025 13:41:24.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=66, z=443} BlockPos{x=400, y=66, z=442}
