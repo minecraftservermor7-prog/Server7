@@ -501,3 +501,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 15:20:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
 [01Sep2025 15:20:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
 [01Sep2025 15:20:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:35:18.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=358, y=64, z=402} BlockPos{x=358, y=63, z=401}
+[01Sep2025 15:35:18.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=358, y=64, z=402} BlockPos{x=358, y=63, z=401}
+[01Sep2025 15:35:18.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=358, y=64, z=402} BlockPos{x=358, y=63, z=401}
+[01Sep2025 15:35:18.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=358, y=64, z=402} BlockPos{x=358, y=63, z=401}
+[01Sep2025 15:35:18.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=358, y=64, z=402} BlockPos{x=358, y=63, z=401}
