@@ -487,3 +487,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 14:53:28.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=331, y=65, z=427} BlockPos{x=334, y=64, z=426}
 [01Sep2025 14:53:28.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=65, z=427} BlockPos{x=334, y=64, z=426}
 [01Sep2025 14:53:28.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=65, z=427} BlockPos{x=334, y=64, z=426}
+[01Sep2025 15:12:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol fell from a high place
+[01Sep2025 15:12:51.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 115 experience points to lol]
+[01Sep2025 15:12:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 10000000 experience points to lol]
+[01Sep2025 15:19:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 115 experience points to lol]
+[01Sep2025 15:19:39.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol was killed
+[01Sep2025 15:19:39.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Killed lol]
+[01Sep2025 15:20:10.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:19.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:20.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
+[01Sep2025 15:20:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Gave 5555 experience points to lol]
