@@ -515,3 +515,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 22:38:40.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=399, y=63, z=249} BlockPos{x=399, y=62, z=250}
 [01Sep2025 22:38:40.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=400, y=63, z=248} BlockPos{x=399, y=62, z=248}
 [01Sep2025 22:38:42.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=398, y=63, z=255} BlockPos{x=398, y=62, z=254}
+[01Sep2025 22:48:52.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natasha[/127.128.23.160:50399] logged in with entity id 114655 at (-80.35335594349485, 65.0, -22.182310901127288)
+[01Sep2025 22:48:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
