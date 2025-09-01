@@ -495,3 +495,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 21:45:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
 [01Sep2025 21:45:37.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Teleported lol to Luiss]
 [01Sep2025 21:49:02.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=62, z=384} BlockPos{x=406, y=61, z=384}
+[01Sep2025 22:02:53.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=62, z=384} BlockPos{x=374, y=61, z=384}
+[01Sep2025 22:02:53.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=62, z=384} BlockPos{x=374, y=61, z=384}
+[01Sep2025 22:03:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lol: Set the weather to rain & thunder]
+[01Sep2025 22:03:30.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=62, z=397} BlockPos{x=377, y=61, z=397}
