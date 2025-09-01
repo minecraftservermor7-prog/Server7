@@ -436,3 +436,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 18:21:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
 [01Sep2025 18:21:27.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
 [01Sep2025 18:43:34.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> wwwwwwwww
+[01Sep2025 19:22:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=64, z=390} BlockPos{x=320, y=64, z=390}
+[01Sep2025 19:24:59.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=64, z=360} BlockPos{x=321, y=63, z=361}
+[01Sep2025 19:24:59.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=64, z=360} BlockPos{x=321, y=63, z=361}
+[01Sep2025 19:25:02.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=64, z=356} BlockPos{x=324, y=63, z=357}
+[01Sep2025 19:25:02.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=64, z=356} BlockPos{x=324, y=63, z=357}
+[01Sep2025 19:25:02.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=64, z=356} BlockPos{x=324, y=63, z=357}
