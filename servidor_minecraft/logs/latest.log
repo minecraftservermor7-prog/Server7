@@ -446,3 +446,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Sep2025 20:19:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
 [01Sep2025 20:19:19.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.98.93.54:34661] logged in with entity id 71710 at (342.69999998807907, 62.0, 341.30000001192093)
 [01Sep2025 20:19:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[01Sep2025 20:40:15.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=61, z=333} BlockPos{x=434, y=61, z=332}
+[01Sep2025 20:40:15.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=61, z=333} BlockPos{x=434, y=61, z=332}
