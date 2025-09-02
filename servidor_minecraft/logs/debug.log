@@ -8275,3 +8275,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Sep2025 03:04:32.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [02Sep2025 03:09:32.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [02Sep2025 03:09:32.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[02Sep2025 03:10:16.631] [Server thread/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[02Sep2025 03:10:20.108] [Worker-Main-54/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from fossil_common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Sep2025 03:10:20.109] [Worker-Main-54/DEBUG] [mixin/]: Renaming synthetic method lambda$tryPlacingCustomStructures$3(Lnet/minecraft/world/level/levelgen/structure/BoundingBox;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$StructureBlockInfo;)I to md7bfebd$lambda$tryPlacingCustomStructures$3$0 in fossil_common.mixins.json:JigsawPlacementMixin
+[02Sep2025 03:10:20.109] [Worker-Main-54/DEBUG] [mixin/]: Renaming synthetic method lambda$tryPlacingCustomStructures$2(Lnet/minecraft/core/Holder;)Ljava/lang/Integer; to md7bfebd$lambda$tryPlacingCustomStructures$2$1 in fossil_common.mixins.json:JigsawPlacementMixin
+[02Sep2025 03:10:20.109] [Worker-Main-54/DEBUG] [mixin/]: Renaming synthetic method lambda$tryPlacingCustomStructures$1(Lnet/minecraft/core/Holder$Reference;)Ljava/lang/Integer; to md7bfebd$lambda$tryPlacingCustomStructures$1$2 in fossil_common.mixins.json:JigsawPlacementMixin
+[02Sep2025 03:10:20.109] [Worker-Main-54/DEBUG] [mixin/]: Renaming synthetic method lambda$tryPlacingCustomStructures$0(Lnet/minecraft/core/Holder$Reference;)Lnet/minecraft/core/Holder; to md7bfebd$lambda$tryPlacingCustomStructures$0$3 in fossil_common.mixins.json:JigsawPlacementMixin
+[02Sep2025 03:10:20.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[02Sep2025 03:14:37.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[02Sep2025 03:14:37.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[02Sep2025 03:15:40.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=850, y=68, z=412} BlockPos{x=850, y=66, z=412}
+[02Sep2025 03:15:41.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=853, y=68, z=412} BlockPos{x=854, y=67, z=412}
+[02Sep2025 03:15:41.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=852, y=68, z=413} BlockPos{x=854, y=67, z=412}
+[02Sep2025 03:15:42.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=68, z=414} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:15:42.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=68, z=414} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:15:42.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=68, z=414} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:15:42.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=69, z=414} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:15:42.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=69, z=415} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:15:42.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=69, z=416} BlockPos{x=851, y=67, z=415}
+[02Sep2025 03:19:37.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[02Sep2025 03:19:37.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
