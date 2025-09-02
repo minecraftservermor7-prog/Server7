@@ -113,6 +113,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-08-23 03:49:43 +0000",
+      "apple": "2025-09-02 02:38:31 +0000",
       "bread": "2025-08-23 04:05:27 +0000",
       "rotten_flesh": "2025-08-23 03:45:51 +0000"
     },
@@ -192,7 +193,10 @@
       "woodworker": "2025-08-23 04:54:23 +0000",
       "librarian": "2025-08-23 04:52:41 +0000",
       "shepherd": "2025-08-23 04:54:02 +0000",
-      "farmer": "2025-09-02 02:06:47 +0000"
+      "miner": "2025-09-02 02:42:21 +0000",
+      "mason": "2025-09-02 02:31:15 +0000",
+      "farmer": "2025-09-02 02:06:47 +0000",
+      "oceanographer": "2025-09-02 02:35:47 +0000"
     },
     "done": false
   },
@@ -205,7 +209,11 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "miningbench": "2025-09-02 02:10:22 +0000",
-      "oceanographytable": "2025-09-02 02:10:27 +0000"
+      "oceanographytable": "2025-09-02 02:10:27 +0000",
+      "fletchingtable": "2025-09-02 02:40:13 +0000",
+      "grindstone": "2025-09-02 02:26:42 +0000",
+      "woodworkingtable": "2025-09-02 02:40:21 +0000",
+      "stonecutter": "2025-09-02 02:31:02 +0000"
     },
     "done": false
   },
