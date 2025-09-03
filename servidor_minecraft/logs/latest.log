@@ -96,3 +96,6 @@
 [03Sep2025 01:12:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
 [03Sep2025 01:12:54.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.149.22.2:38197] logged in with entity id 58266 at (384.25683823144317, 63.5625, 299.66624396718225)
 [03Sep2025 01:12:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[03Sep2025 01:18:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [Limit Breaker]
+[03Sep2025 01:18:51.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=50, z=229} BlockPos{x=378, y=51, z=228}
+[03Sep2025 01:18:51.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=50, z=229} BlockPos{x=378, y=51, z=228}
