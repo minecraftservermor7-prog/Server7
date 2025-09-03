@@ -8234,3 +8234,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Sep2025 23:57:00.856] [Server thread/DEBUG] [mixin/]: Mixing PotionUtilsMixin from quark.mixins.json into net.minecraft.world.item.alchemy.PotionUtils
 [02Sep2025 23:57:43.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [02Sep2025 23:57:43.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[03Sep2025 00:01:56.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [We Need to Go Deeper]
+[03Sep2025 00:01:58.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[03Sep2025 00:02:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [A Throwaway Joke]
+[03Sep2025 00:02:46.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[03Sep2025 00:02:46.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[03Sep2025 00:04:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto burned to death
+[03Sep2025 00:07:46.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[03Sep2025 00:07:46.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
