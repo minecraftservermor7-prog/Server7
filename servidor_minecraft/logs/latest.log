@@ -443,3 +443,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Sep2025 16:08:12.710] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [03Sep2025 16:08:43.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.220.248.189:60031] logged in with entity id 544 at (46.48397094211553, 63.0, 170.5171247996875)
 [03Sep2025 16:08:43.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[03Sep2025 16:19:50.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=64, z=195} BlockPos{x=75, y=63, z=195}
+[03Sep2025 16:19:55.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:19:55.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:19:55.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:22:02.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=64, z=203} BlockPos{x=93, y=63, z=204}
+[03Sep2025 16:22:39.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=64, z=200} BlockPos{x=92, y=63, z=201}
+[03Sep2025 16:22:58.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=65, z=195} BlockPos{x=80, y=64, z=196}
+[03Sep2025 16:23:02.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=64, z=194} BlockPos{x=80, y=64, z=193}

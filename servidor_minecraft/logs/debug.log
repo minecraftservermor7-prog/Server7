@@ -8238,3 +8238,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Sep2025 16:13:12.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [03Sep2025 16:13:12.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [03Sep2025 16:16:40.285] [Server thread/DEBUG] [mixin/]: Mixing PotionUtilsMixin from quark.mixins.json into net.minecraft.world.item.alchemy.PotionUtils
+[03Sep2025 16:18:12.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[03Sep2025 16:18:12.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[03Sep2025 16:19:50.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=64, z=195} BlockPos{x=75, y=63, z=195}
+[03Sep2025 16:19:55.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:19:55.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:19:55.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=66, z=202} BlockPos{x=75, y=65, z=202}
+[03Sep2025 16:22:02.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=64, z=203} BlockPos{x=93, y=63, z=204}
+[03Sep2025 16:22:39.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=64, z=200} BlockPos{x=92, y=63, z=201}
+[03Sep2025 16:22:58.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=65, z=195} BlockPos{x=80, y=64, z=196}
+[03Sep2025 16:23:02.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=64, z=194} BlockPos{x=80, y=64, z=193}
+[03Sep2025 16:23:12.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[03Sep2025 16:23:12.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
