@@ -15,3 +15,13 @@
 [03Sep2025 00:33:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucroto> dou
 [03Sep2025 00:39:33.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
 [03Sep2025 00:39:33.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[03Sep2025 00:43:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto fell from a high place
+[03Sep2025 00:45:34.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucroto> metete a ds ciralol
+[03Sep2025 00:47:56.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:55777] logged in with entity id 28945 at (404.79589303515, 64.0, 198.35061705081918)
+[03Sep2025 00:47:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[03Sep2025 00:49:46.111] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 65.0722760183747, 225.49222937226295] -> [402.24825759232044, 66.87227597069098, 1.2290051650000006E7] returning empty list! this might break things
+[03Sep2025 00:49:51.110] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 250.95794589050533] -> [420.8943348580137, 77.08407841770915, 1.2290051650000006E7] returning empty list! this might break things
+[03Sep2025 00:49:56.154] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 264.51778994109446] -> [481.78055387637335, 81.92555031054692, 1.2290051650000006E7] returning empty list! this might break things
+[03Sep2025 00:50:01.208] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 267.79168666970844] -> [551.7412937829606, 84.29058813673234, 1.2290051650000006E7] returning empty list! this might break things
+[03Sep2025 00:50:06.252] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 251.62502950667837] -> [623.8747994860612, 100.76121901428637, 1.2290051650000006E7] returning empty list! this might break things
+[03Sep2025 00:50:11.301] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8596214650000006E7, 66.0, 248.52883733063936] -> [637.2154813073575, 98.79999990376609, 1.2290051650000006E7] returning empty list! this might break things
