@@ -2,3 +2,16 @@
 [03Sep2025 00:01:58.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
 [03Sep2025 00:02:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto has made the advancement [A Throwaway Joke]
 [03Sep2025 00:04:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto burned to death
+[03Sep2025 00:29:41.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.149.22.2:49393] logged in with entity id 13198 at (383.13118243556914, 63.0, 300.5717066440708)
+[03Sep2025 00:29:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[03Sep2025 00:29:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucroto> dou
+[03Sep2025 00:31:55.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucroto lost connection: Disconnected
+[03Sep2025 00:31:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto left the game
+[03Sep2025 00:31:55.907] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Sep2025 00:32:32.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucroto[/127.157.203.231:35221] logged in with entity id 15031 at (665.2478300238232, 86.0, 291.8828698487738)
+[03Sep2025 00:32:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
+[03Sep2025 00:32:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucroto> te saco del sv??
+[03Sep2025 00:32:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> no
+[03Sep2025 00:33:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucroto> dou
+[03Sep2025 00:39:33.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[03Sep2025 00:39:33.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
