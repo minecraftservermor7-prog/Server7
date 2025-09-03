@@ -211,9 +211,9 @@
     },
     "done": true
   },
-  "jurassic_additions:dino_plushies": {
+  "fossil:fossil/root": {
     "criteria": {
-      "dino_plushies_0": "2025-09-02 02:56:01 +0000"
+      "requirement": "2025-09-02 01:56:29 +0000"
     },
     "done": true
   },
@@ -229,15 +229,15 @@
     },
     "done": false
   },
-  "fossil:fossil/root": {
-    "criteria": {
-      "requirement": "2025-09-02 01:56:29 +0000"
-    },
-    "done": true
-  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "miningbench": "2025-09-02 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:dino_plushies": {
+    "criteria": {
+      "dino_plushies_0": "2025-09-02 02:56:01 +0000"
     },
     "done": true
   },
