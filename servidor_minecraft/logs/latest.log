@@ -456,3 +456,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Sep2025 16:38:50.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=63, z=219} BlockPos{x=127, y=63, z=220}
 [03Sep2025 16:40:38.853] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [kiwi:main,morehitboxes:main,quark:main,jurassic_additions:jurassic_additions,prehistoricfauna:main_channel,sophisticatedbackpacks:channel,sophisticatedcore:channel,portable_blueprints:portable_blueprints,valkyrienskies:vs_packet,zeta:main,trackwork:main,create:main,geckolib:main] rejected vanilla connections
 [03Sep2025 16:40:38.853] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.79.237.90:37619] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Sep2025 17:02:36.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=64, z=239} BlockPos{x=139, y=63, z=239}
+[03Sep2025 17:03:56.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[03Sep2025 17:03:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[03Sep2025 17:04:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Sep2025 17:04:07.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Sep2025 17:04:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Sep2025 17:04:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Sep2025 17:04:07.368] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[03Sep2025 17:04:07.369] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[03Sep2025 17:04:07.412] [DefaultDispatcher-worker-2/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[03Sep2025 17:04:07.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[03Sep2025 17:04:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[03Sep2025 17:04:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:anu_lair
+[03Sep2025 17:04:07.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[03Sep2025 17:04:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[03Sep2025 17:04:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[03Sep2025 17:04:07.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[03Sep2025 17:04:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:treasure_room
+[03Sep2025 17:04:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Sep2025 17:04:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Sep2025 17:04:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (anu_lair): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (treasure_room): All chunks are saved
+[03Sep2025 17:04:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
