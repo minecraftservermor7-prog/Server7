@@ -648,3 +648,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Sep2025 01:03:50.129] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
 [04Sep2025 01:04:45.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has reached the goal [The Next Generation]
 [04Sep2025 01:36:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss has made the advancement [The City at the End of the Game]
+[04Sep2025 01:47:01.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucroto[/127.157.203.231:42415] logged in with entity id 35065 at (679.857994614378, 86.0, 276.73179768360575)
+[04Sep2025 01:47:01.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto joined the game
