@@ -264,12 +264,6 @@
     },
     "done": true
   },
-  "jurassic_additions:paleobotany": {
-    "criteria": {
-      "paleobotany_0": "2025-09-02 00:16:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-09-01 23:55:47 +0000"
@@ -279,6 +273,12 @@
   "jurassic_additions:digging_dinosaurs": {
     "criteria": {
       "digging_dinosaurs_0": "2025-09-02 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:paleobotany": {
+    "criteria": {
+      "paleobotany_0": "2025-09-02 00:16:22 +0000"
     },
     "done": true
   },
