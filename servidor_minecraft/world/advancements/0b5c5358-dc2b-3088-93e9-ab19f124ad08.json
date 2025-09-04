@@ -286,6 +286,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-09-04 02:49:00 +0000"
+    },
+    "done": true
+  },
   "jurassic_additions:paleontology": {
     "criteria": {
       "paleontology_0": "2025-09-04 02:21:35 +0000"
@@ -295,6 +301,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-09-04 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-09-04 02:43:42 +0000"
     },
     "done": true
   },
