@@ -882,3 +882,58 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Sep2025 02:54:09.882] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 682.8964345864952] -> [1106.2977470941842, 163.10023667843348, 1.2290049650000006E7] returning empty list! this might break things
 [04Sep2025 02:54:18.333] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 684.657845903188] -> [1106.8436510786414, 180.50748507266232, 1.2290049650000006E7] returning empty list! this might break things
 [04Sep2025 02:54:23.382] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 695.1338119287849] -> [1065.3605700314672, 180.14457059640742, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:28.384] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 711.3057434409857] -> [1054.8457601740956, 171.22106692697008, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:33.390] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.7248258925974] -> [1036.7993181198835, 161.26269755632794, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:38.433] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.998073734343] -> [1035.5763826295733, 151.16159058478164, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:43.433] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.9126253388822] -> [1035.5371951684356, 141.16158611453503, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:48.435] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.8259744159877] -> [1035.501965571195, 131.16158605852777, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:53.484] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.9056811109185] -> [1036.0962997116148, 121.073293490469, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:54:58.487] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.8522552214563] -> [1036.238996695727, 112.48695391925146, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:03.532] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 716.8274855799973] -> [1036.334404129535, 102.47479106547915, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:08.533] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 722.0947043374181] -> [1037.8125773742795, 92.47483847468682, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:13.534] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 736.4193581044674] -> [1043.8854272514582, 82.47542376264694, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:18.534] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 736.7391811703411] -> [1043.6267391459999, 80.06800761560692, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:23.585] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 739.2256153770329] -> [1043.18120962401, 81.22922034561634, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:28.585] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 736.9434403095441] -> [1022.8860043922588, 82.57973328202584, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:55:33.588] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 722.6969967142252] -> [1021.5909198115198, 87.54758271536747, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:56:59.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lucroto a server operator
+[04Sep2025 02:57:18.884] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 741.760609537363] -> [1002.8311453331262, 83.36176990848337, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:57:23.885] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 762.4972825348377] -> [1005.9111888445914, 83.24278491854328, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:57:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to 9999.500000, 80.510000, 999999.500000]
+[04Sep2025 02:57:42.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[04Sep2025 02:58:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to lucroto]
+[04Sep2025 02:58:28.834] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 763.2999912071973] -> [1007.1556677632034, 81.80050842059785, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:58:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to 1011.500000, 80.510000, 726.500000]
+[04Sep2025 02:59:12.685] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 763.2999915722758] -> [1007.1556680984795, 81.80050864326587, 1.2290049650000006E7] returning empty list! this might break things
+[04Sep2025 02:59:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to 1011.500000, 999.000000, 726.500000]
+[04Sep2025 03:00:00.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to 1011.500000, 999.000000, 726.500000]
+[04Sep2025 03:00:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Teleported Luiss to 1011.500000, 999.000000, 726.500000]
+[04Sep2025 03:01:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lucroto: Made lucroto no longer a server operator]
+[04Sep2025 03:01:52.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[04Sep2025 03:01:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
+[04Sep2025 03:02:00.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucroto lost connection: Disconnected
+[04Sep2025 03:02:00.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucroto left the game
+[04Sep2025 03:03:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Sep2025 03:03:31.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Sep2025 03:03:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Sep2025 03:03:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Sep2025 03:03:31.234] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[04Sep2025 03:03:31.237] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[04Sep2025 03:03:31.327] [DefaultDispatcher-worker-3/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[04Sep2025 03:03:32.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[04Sep2025 03:03:36.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[04Sep2025 03:03:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:anu_lair
+[04Sep2025 03:03:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[04Sep2025 03:03:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:treasure_room
+[04Sep2025 03:03:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[04Sep2025 03:03:36.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[04Sep2025 03:03:36.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (anu_lair): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (treasure_room): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Sep2025 03:03:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
