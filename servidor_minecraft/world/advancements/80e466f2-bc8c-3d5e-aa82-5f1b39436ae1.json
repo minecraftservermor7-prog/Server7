@@ -143,6 +143,7 @@
       "golden_carrot": "2025-08-23 00:04:39 +0000",
       "cooked_chicken": "2025-08-23 03:03:47 +0000",
       "enchanted_golden_apple": "2025-08-31 03:40:19 +0000",
+      "cooked_salmon": "2025-09-04 22:23:15 +0000",
       "carrot": "2025-09-01 00:26:00 +0000"
     },
     "done": false
@@ -411,9 +412,15 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:end/root": {
     "criteria": {
-      "elytra": "2025-09-04 02:33:38 +0000"
+      "entered_end": "2025-09-04 00:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-04 00:47:50 +0000"
     },
     "done": true
   },
@@ -429,9 +436,9 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "entered_end": "2025-09-04 00:47:50 +0000"
+      "dragon_egg": "2025-09-04 01:04:45 +0000"
     },
     "done": true
   },
@@ -441,15 +448,9 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "dragon_egg": "2025-09-04 01:04:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-09-04 00:47:50 +0000"
+      "elytra": "2025-09-04 02:33:38 +0000"
     },
     "done": true
   },
