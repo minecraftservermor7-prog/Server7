@@ -402,5 +402,11 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-04 00:39:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
