@@ -10049,3 +10049,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Sep2025 22:40:08.995] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768129
 [04Sep2025 22:40:09.054] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
 [04Sep2025 22:40:09.056] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6cdfa18f-b254-415b-aaea-2351621d9bce unwatched ships [536]
+[04Sep2025 22:41:55.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[04Sep2025 22:41:55.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[04Sep2025 22:42:06.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=66, z=39} BlockPos{x=67, y=64, z=38}
+[04Sep2025 22:44:00.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=63, z=38} BlockPos{x=87, y=63, z=38}
+[04Sep2025 22:44:00.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=63, z=38} BlockPos{x=87, y=63, z=38}
+[04Sep2025 22:44:20.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=64, z=40} BlockPos{x=105, y=65, z=39}
+[04Sep2025 22:44:28.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=62, z=36} BlockPos{x=78, y=62, z=36}
+[04Sep2025 22:44:43.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=65, z=39} BlockPos{x=27, y=64, z=39}
+[04Sep2025 22:44:43.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=65, z=39} BlockPos{x=27, y=64, z=39}
+[04Sep2025 22:44:43.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=65, z=39} BlockPos{x=27, y=64, z=39}
+[04Sep2025 22:44:46.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=63, z=39} BlockPos{x=16, y=62, z=39}
+[04Sep2025 22:45:32.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=90, z=43} BlockPos{x=72, y=89, z=43}
+[04Sep2025 22:45:52.831] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[04Sep2025 22:46:38.430] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinBeltMovementHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler
+[04Sep2025 22:46:55.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[04Sep2025 22:46:55.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[04Sep2025 22:51:55.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[04Sep2025 22:51:55.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
