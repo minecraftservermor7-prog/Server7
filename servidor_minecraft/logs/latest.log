@@ -432,3 +432,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [05Sep2025 17:07:32.720] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [05Sep2025 17:07:47.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.47.96.20:59671] logged in with entity id 219 at (66.1958602628329, 63.0, 139.66398606071675)
 [05Sep2025 17:07:47.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[05Sep2025 17:18:39.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[05Sep2025 17:18:39.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[05Sep2025 17:18:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Sep2025 17:18:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 17:18:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 17:18:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 17:18:50.228] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[05Sep2025 17:18:50.229] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[05Sep2025 17:18:50.310] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[05Sep2025 17:18:50.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[05Sep2025 17:18:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[05Sep2025 17:18:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:anu_lair
+[05Sep2025 17:18:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[05Sep2025 17:18:50.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:treasure_room
+[05Sep2025 17:18:50.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[05Sep2025 17:18:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[05Sep2025 17:18:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[05Sep2025 17:18:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 17:18:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[05Sep2025 17:18:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (anu_lair): All chunks are saved
+[05Sep2025 17:18:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 17:18:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (treasure_room): All chunks are saved
+[05Sep2025 17:18:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[05Sep2025 17:18:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 17:18:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[05Sep2025 17:18:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
