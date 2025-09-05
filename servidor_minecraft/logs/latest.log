@@ -71,3 +71,32 @@
 [05Sep2025 02:50:57.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
 [05Sep2025 02:50:57.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
 [05Sep2025 03:03:47.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=166, y=66, z=364} BlockPos{x=166, y=63, z=363}
+[05Sep2025 03:07:34.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=63, z=353} BlockPos{x=189, y=63, z=354}
+[05Sep2025 03:21:50.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=225, y=66, z=376} BlockPos{x=225, y=63, z=376}
+[05Sep2025 03:28:59.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=67, z=381} BlockPos{x=179, y=66, z=381}
+[05Sep2025 03:31:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Sep2025 03:31:20.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 03:31:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 03:31:20.873] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[05Sep2025 03:31:20.884] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[05Sep2025 03:31:20.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Server closed
+[05Sep2025 03:31:20.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
+[05Sep2025 03:31:20.935] [DefaultDispatcher-worker-3/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[05Sep2025 03:31:20.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 03:31:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[05Sep2025 03:31:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[05Sep2025 03:31:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:anu_lair
+[05Sep2025 03:31:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[05Sep2025 03:31:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/fossil:treasure_room
+[05Sep2025 03:31:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[05Sep2025 03:31:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[05Sep2025 03:31:22.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (anu_lair): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (treasure_room): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 03:31:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
