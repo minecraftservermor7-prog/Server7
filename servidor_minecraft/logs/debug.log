@@ -8428,3 +8428,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [05Sep2025 04:01:45.494] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: eb70c066-7400-47a5-8984-0b90960d9588 unwatched ships [536]
 [05Sep2025 04:01:45.496] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: adc6f485-40d6-4573-8728-fb9267e53685 unwatched ships [536]
 [05Sep2025 04:02:37.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=69, z=418} BlockPos{x=284, y=69, z=416}
+[05Sep2025 04:03:39.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[05Sep2025 04:03:39.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[05Sep2025 04:04:23.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[05Sep2025 04:04:23.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[05Sep2025 04:08:39.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[05Sep2025 04:08:39.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
