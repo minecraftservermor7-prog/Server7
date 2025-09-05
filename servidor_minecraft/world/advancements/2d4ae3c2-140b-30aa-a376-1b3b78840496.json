@@ -282,5 +282,11 @@
     },
     "done": true
   },
+  "fossil:fossil/root": {
+    "criteria": {
+      "requirement": "2025-09-05 00:02:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
