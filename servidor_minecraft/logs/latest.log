@@ -576,3 +576,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Sep2025 23:38:04.889] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, -68.10928066779232] -> [-97.21516957311917, 79.71831682876216, 1.2290049650000006E7] returning empty list! this might break things
 [04Sep2025 23:38:09.933] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, -109.1804175844948] -> [-82.42746079662786, 69.67556787099548, 1.2290049650000006E7] returning empty list! this might break things
 [04Sep2025 23:40:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> donde estoy
+[04Sep2025 23:46:46.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> adios
+[04Sep2025 23:46:47.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[04Sep2025 23:46:47.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
