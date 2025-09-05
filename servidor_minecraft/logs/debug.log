@@ -8591,3 +8591,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [05Sep2025 04:20:10.200] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@73fd00bc into net.minecraft.network.Connection@1e137fbd
 [05Sep2025 04:20:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
 [05Sep2025 04:20:41.054] [Netty Epoll Server IO #3/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@60cc368c, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[05Sep2025 04:23:39.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[05Sep2025 04:23:39.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[05Sep2025 04:25:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
+[05Sep2025 04:28:39.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[05Sep2025 04:28:39.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[05Sep2025 04:30:48.539] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[05Sep2025 04:30:48.540] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f8971da3-c279-47c8-b989-54e2df5ad94e watched ships: [536]
+[05Sep2025 04:30:49.688] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[05Sep2025 04:31:56.388] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[05Sep2025 04:32:22.441] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[05Sep2025 04:32:30.755] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[05Sep2025 04:32:42.141] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[05Sep2025 04:32:42.142] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f8971da3-c279-47c8-b989-54e2df5ad94e unwatched ships [536]
+[05Sep2025 04:33:39.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[05Sep2025 04:33:39.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
