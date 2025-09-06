@@ -434,3 +434,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Sep2025 00:45:44.618] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [06Sep2025 00:45:44.623] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [06Sep2025 00:45:45.421] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[06Sep2025 00:56:20.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@463127b3[id=<null>,name=Luiss,properties={},legacy=false] (/127.19.209.213:52519) lost connection: Disconnected
+[06Sep2025 00:56:32.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:52329] logged in with entity id 176 at (403.73577233820595, 64.0, 195.95083212359128)
+[06Sep2025 00:56:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
