@@ -437,3 +437,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Sep2025 00:56:20.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@463127b3[id=<null>,name=Luiss,properties={},legacy=false] (/127.19.209.213:52519) lost connection: Disconnected
 [06Sep2025 00:56:32.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.19.209.213:52329] logged in with entity id 176 at (403.73577233820595, 64.0, 195.95083212359128)
 [06Sep2025 00:56:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[06Sep2025 01:06:59.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=64, z=178} BlockPos{x=425, y=62, z=179}
+[06Sep2025 01:06:59.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=65, z=178} BlockPos{x=425, y=62, z=179}
+[06Sep2025 01:06:59.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=65, z=178} BlockPos{x=425, y=62, z=179}
